@@ -10,3 +10,7 @@ Final banknotes notebook has code on how to colour a scatter graph's points acco
 And also code on how to colour two or more clusters differently (it's only 1 line of code! I spent hours looking for how to do this and only found errors! All thanks to two fellow learners on course forum). It's the last three graphs, too tired to make 1. 
 
 Bye Future Me :)
+
+
+My original thread: https://www.coursera.org/learn/data-science-k-means-clustering-python/discussions/weeks/5/threads/MtHzBf6_EeqUdwo2TDNrdw?sort=createdAtDesc
+Thread where I found the cluster colour code: https://www.coursera.org/learn/data-science-k-means-clustering-python/discussions/weeks/5/threads/xxlBdv8CEeqUdwo2TDNrdw?sort=createdAtDesc
